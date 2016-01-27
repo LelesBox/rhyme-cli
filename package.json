@@ -1,15 +1,19 @@
 {
-  "name": "rhyme-cli",
-  "version": "1.0.0",
+  "name": "rhythm-cli",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "bin": {
-    "rhyme": "index.js"
+    "rhythm": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LelesBox/rhythm-cli.git"
+  },
+  "author": "leebox",
   "license": "MIT",
   "dependencies": {
     "shelljs": "^0.5.3",
