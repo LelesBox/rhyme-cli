@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-var templateUrl = "https://codeload.github.com/LelesBox/rhyme-template/zip/master"
+var templateUrl = "https://codeload.github.com/LelesBox/rhythm-template/zip/master"
 var argv = require('yargs').argv;
 var shell = require("shelljs");
 
